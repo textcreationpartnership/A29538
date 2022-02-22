@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a late pamphlet, intituled, Reasons offer'd against the intended project, commonly called, The national land-bank, &amp;c.</title>
+            <author>Briscoe, John, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29538</idno>
+            <idno type="STC">Wing B4742</idno>
+            <idno type="STC">ESTC R18953</idno>
+            <idno type="EEBO-CITATION">12876844</idno>
+            <idno type="OCLC">ocm 12876844</idno>
+            <idno type="VID">94849</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94849)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 731:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a late pamphlet, intituled, Reasons offer'd against the intended project, commonly called, The national land-bank, &amp;c.</title>
+                  <author>Briscoe, John, fl. 1695.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Briscoe.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land banks --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:94849:1"/>
+            <head>An ANSWER to a late Pamphlet, intituled, <hi>Reaſons offer'd againſt the intended Project, common<g ref="char:EOLhyphen"/>ly called,</hi> The National Land-Bank, <hi>&amp;c.</hi>
+            </head>
+            <p>SUch is the Vanity of ſome who appear in Print, that how ridiculous ſoever their Poſitions are, if none think ſit to give them an Anſwer, they fancy no Perſon is able to hold the Cudgels againſt them: of which Number is the Author of the above-mentioned Pamphlet, who having printed and diſperſed the ſame about two Months ago, and great Numbers of them lately, and no Reply having been made there<g ref="char:EOLhyphen"/>unto, he and his Adherents give out, that the ſaid Pamphlet is unanſwerable: Not knowing therefore what Impreſſions the ſame may make of ſuch who may read it over ſuperficially, but will not ſpare time to examine into his Arguments, I ſhall (with what Brevity I can) d<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Fallacy, and diſcover the Weakneſs of them.</p>
+            <p>And <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Our U<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r (for ſuch an one I am credibly inform'd he is, and therefore I hope he will not be o<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d for calling him by that Name, eſpecially ſince he thinks fit to conceal his own <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tells <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat if Money were reduced to</hi> 3 l. per Cent. per Annum, <hi>and Lands raiſed thereby in the Sale to</hi> 30 <hi>Years Purchaſe, yet it would be but an Imaginary, not Real Improvement to Lands; for th<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f upon ſuch ſuppoſed Reduction of Intereſt-Money, Lands of the value of</hi> 100 l. per Annum <hi>were ſold for</hi> 3000 l.<hi>in Money, which before could be ſold but for</hi> 2000 l.<hi>yet ſuch Lands would not be really improved thereby, or the Seller be one whit the richer.</hi>
+            </p>
+            <p>In Anſwer to which, I take our Uſurer's meaning by the words <hi>Improvement to Lands,</hi> to be, a putting the Freeholder in a better Condition than he was before, by ſuch Reduction of Intereſt, and raiſing the Value of his Land to 30 Years Purchaſe. Now to ſhow the Weakneſs of his ſaid Argument, I will ſuppoſe, that a Man hath 100 <hi>l. per Annum,</hi> and wanting 1500 <hi>l.</hi> upon his Eſtate, he applies himſelf to our Uſurer to help him to the Mo<g ref="char:EOLhyphen"/>ney, who, in the firſt place, tells him, that 100 <hi>l. per Annum</hi> is too ſcanty a Security for 1500 <hi>l.</hi> But however, if he will pay 6 <hi>l. per Cent. per Annum</hi> Intereſt, being 90 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi> 1500 <hi>l.</hi> But however, if he will pay 6 <hi>l. per Cent. per Annum</hi> Intereſt, being 90 <hi>l. per An<g ref="char:EOLhyphen"/>num</hi> for the 1500 <hi>l.</hi> and give him a handſome Gratuity for the procuring of it, and a ſmall Acknowledgment of 10 or 15 <hi>l.</hi> every half Year when he pays the Intereſt-Money, he will do what he can to get it for him; and this Offer (how unreaſonable ſoever it be) our Freeholder muſt comply with if he be neceſſitated for Money. But I come and propoſe a way to the Freeholder how he may have 1500 <hi>l.</hi> on the ſame Security for 3 <hi>l. per Cent.</hi> being no more than 45 <hi>l. per Annum,</hi> and that without any farther Charge; and if he will ſell his Eſtate after ſuch Reduction of Intereſt, he ſhall have 40 Years Purchaſe for it (for Land will be worth 40 Years Purchaſe if Intereſt be reduced to 3 <hi>l. per Cent. per An<g ref="char:EOLhyphen"/>num</hi>). I fancy our Uſurer will not he able with all his Rhetorick to perſwade the Free<g ref="char:EOLhyphen"/>holder that this is but an imaginary, and not a real Improvement of his Ellate, and that he is never a whit the richer.</p>
+            <p>
+               <hi>Ay, but,</hi> ſaith our Uſurer, <hi>after ſuch Reduction of Intereſt-Money,</hi> 3000 l.<hi>in Money would be of no better Value than</hi> 2000 l.<hi>was before; but on the contrary, every</hi> 20 <hi>Shillings of Yearly Rent will be proportionably of ſo much leſs Value as the Intereſt of Money ſhall be reduced.</hi> And here I ſhall take this opportunity to acquaint my Reader, that our Uſurer throughout his whole Pamphlet values Money only as it yields high Intereſt, and not as it is a Medium of Trade, or as Gold and Silver are convertible to other Uſes: For, reckons our Uſurer, if I can have but 90 <hi>l. per Annum</hi> Intereſt for 3000 <hi>l.</hi> after Intereſt-Money is reduced to 3 <hi>l. per Cent.</hi> and I can now have 120 <hi>l. per Annum</hi> for the Loan of 2000 <hi>l.</hi> then 2000 <hi>l.</hi> now is more worth by one third, than 3000 <hi>l.</hi> will be after ſuch Reduction of Intereſt. This indeed is well enough argued for a Uſurer who propoſes to get this 120 <hi>l. per Annum</hi> for the Loan of his 2000 <hi>l.</hi> from ſome honeſt Freeholder, payable half yearly, under no leſs Penalty than to be ejected, or elſe out of the Sweat of ſome poor Tradeſman's Brows, who muſt ſlave Night and Day to pick up this Intereſt-Money, and provide for his Family.</p>
+            <p>But to be more fair and candid than our Uſurer is, I will prove, that in an honeſt way of Trade (for I do not look upon Extortion to be ſuch) every 100 <hi>l.</hi> in Money (after Intereſt ſhall be reduced to 3 <hi>l. per Cent.</hi>) will be of equal Value with 100 <hi>l.</hi> while Intereſt is at 6 <hi>l. per Cent. per Annum:</hi> And tho I could give forty Inſtances, I ſhall trouble my Reader but with one, <hi>viz. A</hi> and <hi>B</hi> have each of them 100 <hi>l. per Annum, A</hi> ſells his 100 <hi>l. per Annum</hi> before the Reduction of Intereſt for 2000 <hi>l.</hi> and imploys the ſame in Trade to the <hi>Eaſt-Indies; B</hi> one, two or three Years after (Intereſt being reduced to 3 <hi>l. per Cent. per Annum,</hi> and Lands conſequently raiſed to 40 Years Purchaſe) ſells his 100 <hi>l. per Annum</hi> for 4000 <hi>l.</hi> and imploys it in like manner in the <hi>Eaſt-India</hi> Trade: I appeal to any indifferent Perſon who hath the better Eſtate <hi>A</hi> or <hi>B,</hi> whether <hi>B</hi> hath not
+<pb n="2" facs="tcp:94849:2" rendition="simple:additions"/>more than an Imaginary Improvement of his Eſtate by ſuch Advance of Land, and whe<g ref="char:EOLhyphen"/>ther he may not in reaſon expect a Return of double the Value that <hi>A</hi> has?</p>
+            <p>But ſays our Uſurer, <hi>This Project of reducing the Intereſt of Money to</hi> 3 l. per Cent. per Annum, <hi>doth manifeſtly invade the Properties of all ſuch who are poſſeſſed of Perſonal Eſtates, by ſinking the very Inheritance of their Money, to which every one hath as, much right by the Law as to his Lands.</hi> By the Inheritance of Money here is meant the Uſurers high Intereſt of 6 <hi>l. per Cent. per Annum,</hi> which by long Cuſtom pleads Preſcription, and is now, it ſeems, become an Inheritance. But, pray, how is any Man's Right invaded by the Reduction of Intereſt? Has not every Man as much Right to his Money when Intereſt is low as when it is high? Has he not the ſame liberty to buy and ſell, or do any thing with his Money as he had before ſuch Reduction of Intereſt? or, is Money noway improveable but by let<g ref="char:EOLhyphen"/>ting out to Intereſt? if it were not, Uſury it ſelf would be ſoon at an end; for no Tradeſman would borrow Money at Intereſt, but in hopes of making a greater Advantage thereof than what he muſt pay.</p>
+            <p>Ay but, ſays our Uſurer, <hi>The Daughters and younger Children of moſt Families in</hi> England, <hi>if the Intereſt of Money ſhould be ſo reduced, will be totally ruined, as not being able to ſubſiſt upon their Portions.</hi> When the Uſurers by their high Intereſt have utterly ruined ſo many Families in <hi>England,</hi> and have turn'd ſo many thouſand Daughters and younger Children out of Doors, it muſt be ſomething extraordinary that cauſes ſuch unrelenting Wretches to plead on the behalf of Daughters and younger Children: but their high Intereſt (here called Inheritance of Money) being, as they apprehend, in danger, our Uſurers call in to their Aid young Women and Children; and I would deſire if it could be done, that the Daughters and younger Children of ſuch who have been ruin'd and undone by mercileſs Uſurers might alſo appear, and I am of Opinion there would be a far greater Number of ſuch poor Creatures, than of thoſe who can be prejudiced by the Reduction of Intereſt. But to the Argument, The Daughters and younger Children he mentions muſt be at Age, or are Minors; if they are under Age, how few of them have any Intereſt at all allowed them for their Money? For the Executor, or ſuch who have the Guardianſhip of them, knowing if they lend out the Orphans Money, they muſt make it good to the Orphan in caſe it be loſt; few will lend out ſuch Money upon their own Riſque, but they will take the Intereſt-Money to themſelves: ſo that 'tis plain ſuch Orphans during their Minority are not at all affected with the Reduction of Intereſt. As to thoſe who are at Age, they will have the ſame Money they had to uſe in any lawful Calling; tho they will not have ſo much coming in to maintain them in Idleneſs, and to live upon the Labours of others: but withal I muſt put our Uſurer in mind, that there are many Widows and Children whoſe All is in Land charged deeply with Debts, who will be preſerved from Ruine if Intereſt be reduced.</p>
+            <p>But proceeds our Uſurer, <hi>Lands muſt be very much deeper charged, even almost double what they formerly were, for the Portions of Daughters and younger Children, or elſe a ſufficient Proviſion and Maintenance cannot be made for them, which will inevitably ruine all the ſmall Eſtates in</hi> England. By our Uſurer's Proviſion and Maintenance is to be underſtood high Intereſt, and I find he can think of no other Maintenance for them: Well, admit a Man has a mind to make ſuch Proviſion and Maintenance for his Child as our Uſurer means: And ſuppoſe a Man ſhould charge 100 <hi>l. per Annum</hi> with 1000 <hi>l.</hi> for his Daughter's Portion, Landand being at 20 Years, and Intereſt at 6 <hi>l. per Cont.</hi> May not this Man as well charge the ſame Land with 2000 <hi>l.</hi> if Land be worth 40 Years Purchaſe? And if Intereſt be at 3 <hi>l. per Cent.</hi> is there not as much coming in by way of Intereſt, as if he left his Daughter but 1000 <hi>l.</hi> and Intereſt at 6 <hi>l. per Cent.?</hi> and will not the 2000 <hi>l.</hi> be eſteem'd a more noble Portion than the 1000 <hi>l.</hi> tho it brings in but the ſame Intereſt? and will not the Remainder of the 100 <hi>l. per Annum,</hi> ſo charged be as much worth as the 100 <hi>l. per Annum</hi> now is without a Penny charged upon it? This is ſuch ſtuff, that none but a Uſurer who is infatuated with 6 <hi>l. per Cent. per Annum,</hi> would publiſh to the World.</p>
+            <p>But ſays our Uſurer, <hi>The induſtrious People of the Nation, either in Profeſſions or Trades, if this Project of reducing the Intereſt of Money to</hi> 3 l. per Cent. per Annum <hi>ſhould take effect, will ſuffer much thereby.</hi> Now I would willingly know what ſort of People theſe are whom he calls the induſtrious People of the Nation, that will ſuffer by this Project: he cannot mean the poor induſtrious Trader, who is forced to take up Money to drive his Trade, and pays 6 <hi>l. per Cent. per Annum</hi> Intereſt, for he will have an Advantage by the Reduction of Intereſt; it muſt then be the rich induſtrious Traders, who having overgrown Eſtates turn Uſurers: ſo that it's plain our Uſurer's Charity extends no farther than to thoſe of his own Profeſſion.</p>
+            <p>But proceeds our Uſurer, <hi>The Stocks and Effects of all Traders are to be valued by Money;</hi> ſo far we agree. But ſays he, <hi>If every Sum of Money be of much loſs value, by reducing Intereſt of Money to</hi> 3 l. per Cent. per Annum, <hi>than it was before, it is a certain Conſequence, that the Stocks and Effects of all Traders will be in Proportion of ſo much leſs intrinſick Value as the In<g ref="char:EOLhyphen"/>tereſt of Money ſhall be reduced.</hi> That is, Goods which are worth 100 <hi>l.</hi> when Intereſt is
+<pb n="3" facs="tcp:94849:2"/>at 6 <hi>l.</hi> will be worth but 50 <hi>l.</hi> when Intereſt ſhall be reduced to 3 <hi>l. per Cent.</hi> and conſe<g ref="char:EOLhyphen"/>quently worth nothing if no Intereſt for Money be given. Now this is ſuch Trum<g ref="char:EOLhyphen"/>pery that <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Man in his Senſes would aſſert. As for Example; A Tradeſman hath 2000 <hi>l.</hi> 
+               <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Goods, ſuppoſe <hi>Indico, Sugar, Tobacco,</hi> or any other Commodity, now Intereſt <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>l. per Cent.</hi> but before he ſhall have diſpoſed thereof, we will ſuppoſe In<g ref="char:EOLhyphen"/>tereſt ſhould <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nced to 3 <hi>l. per Cent.</hi> our Uſurer may as ſoon perſwade the Tradeſman that the Moon is made of Green Cheeſe, as that his Commodities of 2000 <hi>l.</hi> Value are not worth 1000 <hi>l.</hi> or <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>re was a Law made to prohibit the taking of any Intereſt at all, that his Goods were worth nothing, becauſe he cannot if he ſells off his Stock turn Uſurer. There are many in the World who queſtion the Lawfulneſs of all Uſury; but our Uſurer laying aſide all Conſiderations how Money may be improved in the way of Trade, or by any other laudable Undertaking, he forms all his Arguments in favour of high Intereſt, which is ſo deſtructive to Trade, a Bar to Induſtry, and the very Bane and utter Ruine of Families, nay of Kingdoms, high Intereſt being a certain Concomitant of Poverty, and brings Ruine and Deſolation with it whereſoever it comes.</p>
+            <p>But ſays our Uſurer, <hi>It will be hardly poſſible for People in Profeſſions and Trades to raiſe a competent Eſtate wherewithal to provide for themſelves and Families, than which nothing can be a greater Diſcouragement to the honeſtly induſtrious Part of the Nation.</hi> Here our Uſurer I doubt hath drawn the honeſtly induſtrious into a narrow compaſs: I have proved already that it is not the poor but the rich induſtrious part of the Nation that he means.</p>
+            <p>But adds our Author, <hi>The chief Ingredient into the Compoſition of this Project is,</hi> viz. <hi>That ſome Men who now owe a great deal of Money upon their Lands will be in ſome meaſure eaſed at preſent, by reducing of Intereſt-Money to</hi> 3 l. per Cent. per Annum. It is well he will grant it eaſes ſome body; but ſays he, <hi>It is no ways conſiſtent with the publick Good, nor yet with common Juſtice, that ſome indebted Perſons ſhould be eaſed by ſuch means as are manifeſtly injurious to the rightful Properties of all others who have Eſtates either in Land, Money or Trading Stocks, and which highly tend to the Diſcouragement of all Induſtry.</hi>
+            </p>
+            <p>Here our Uſurer's true Charity begins to appear, and he who was juſt now pleading on the behalf of the Daughters and younger Children, is now bringing his Arguments to juſtify the Ruine of their Fathers; for the Gentleman's Eſtate is in Clutches, and he is very unwilling to part with it. The Gentleman is endeavouring to put himſelf into a Capacity to pay our Uſurer his Money, and the Uſurer cries out, <hi>it is not conſiſtent with the Publick Good, nor common Juſtice, that the Gentleman ſhould eaſe himſelf by ſuch means.</hi> By what means, I pray? why, ſays our Uſurer, <hi>by ſuch means as are injurious to the rightful Properties of all others.</hi> Pray, what does the Gentleman that can be ſaid to be injurious to another Man's Property? Why, the Uſurer tells us in a different Character, <hi>That there are a Num<g ref="char:EOLhyphen"/>ber of Perſons forming themſelves in a Body without lawful Authority for the ſame, and pretend at their own pleaſure to govern and model the Rights and Properties of others their Fellow-Subjects.</hi> Pray, wherein, Mr. <hi>
+                  <g ref="char:V">Ʋ</g>ſurer,</hi> do they go about to model and govern other Mens Properties? Can any thing in the World be more juſt and honeſt, than for Gentlemen to meet together to conſider which way the Freeholders of <hi>England</hi> (whom it is well known have upon all occaſions contributed largely towards the carrying on the War, and Support of the Go<g ref="char:EOLhyphen"/>vernment, while the Uſurer hath paid little or nothing for Taxes) may be able to pay their Debts and clear off their Incumbrances, by raiſing a Credit out of their Freehold Eſtates? and may not they as reaſonably expect a Credit ſhould be given them upon ſuch their Eſtates, as others have upon far leſs Securities, and thereby reſcue themſelves and Families from impending Ruine? Is any Man's Property invaded by a Gentleman's getting Money upon his Eſtate for 3 <hi>l. per Cent.</hi> to pay the Uſurer his Money, to whom he now gives 6 <hi>l. per Cent.</hi> and who probably is not contented therewith, but is for ejecting the Gentleman, or for fore-cloſing him in <hi>Chancery?</hi> And therefore, with Submiſſion, Mr. <hi>
+                  <g ref="char:V">Ʋ</g>ſurer,</hi> I ſee not thoſe Inconveniences you would ſuggeſt, <hi>That things will thereby be diverted and turned out of their antient Courſe and Channel, and that a multitude of ill Conſe<g ref="char:EOLhyphen"/>quences will attend this Project,</hi> as you are pleaſed to term it.</p>
+            <p>And now, Mr. <hi>
+                  <g ref="char:V">Ʋ</g>ſurer,</hi> whether you are pleaſed with it or no, I value not, you who ac<g ref="char:EOLhyphen"/>cuſe me for having <hi>not dealt candidly with the Nation, by impoſing an evil Deſign for the publick Good under a good Name.</hi> I muſt tell you you talk like an Uſurer, and arraign me for endeavouring to ruine Daughters, younger Children, Traders, <hi>&amp;c.</hi> by lowering of In<g ref="char:EOLhyphen"/>tereſt, <hi>&amp;c.</hi> when your plain Deſign is to keep the Freeholders Neck ſtill under the Yoke, and by the continuance of high Intereſt to cruſh thouſands of poor Families, who are under ſore Preſſures, and whom you well know have no probable way left them to eſcape your Uſurious Talons, but by means of the <hi>National Land-Bank.</hi>
+            </p>
+            <p>I have been credibly inform'd, that there are a Club of Uſurers and others who meet three or four times every Week towards the Temple, to draw up weighty Arguments and Reaſons to be offered to the Parliament againſt the ſaid Bank, and that they intend to get. Petitions to the approaching Parliament againſt the <hi>National Land-Bank.</hi> And in the Cloſe of the Pamphlet, our Uſurer invites <hi>all who are Well-wiſhers to the Publick, and who value
+<pb n="4" facs="tcp:94849:3"/>their own rightful Properties, together with the Good of Poſterity, to uſe their utmost Endeavours in a lawful way, that the aforeſaid Project, ſtiled the</hi> National Land-Bank, <hi>may be quaſhed and ſuppreſſed, as being of the ſame nature with Monopolies.</hi>
+            </p>
+            <p>When our Uſurer hath been pleading for the greateſt Monopoly in the World, <hi>viz.</hi> a Monopoly of Credit; for he will not bear that the Landed Man ſhould raiſe any Credit upon his Eſtate, but what he pays 6 <hi>l. per Cent. per Annum</hi> for, he tells us the ſame is of the nature of Monopolies: Surely our Uſurer forgets himſelf, for I am well ſatisfied he cannot think it is of the nature of a Monopoly, for all the Freeholders of <hi>England</hi> to have a Credit upon their Eſtates for an eaſy Conſideration. But I think I have ſaid enough to open Peoples Eyes; and ſince our Uſurer does call upon all the Well-wiſhers to Uſury to ſtand up for their rightful Properties of 6 <hi>l. per Cent. per Annum</hi> Intereſt, and to oppoſe to the utmoſt the <hi>National Land-Bank;</hi> I hope the Freeholders of <hi>England,</hi> ſeeing they have ſuch fair notice given them that they are to be attacked, will not be ſupine and negligent, but that they will apply themſelves to their Repreſentatives in Parliament, and Humbly requeſt them to take the Caſe of the Freeholders in Conſideration this Seſſion, they having upon all occaſions contributed out of their Eſtates for the Support of the Government, while the Uſurer hath in a manner been totally exempted from Taxes.</p>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>I Deſire our Uſurer, or thoſe Gentlemen of the Club near the Temple, when they offer any farther Reaſons againſt the <hi>National Land-Bank,</hi> to anſwer theſe following Queries.</p>
+            <p>Whether there be Money <hi>in ſpecie</hi> in <hi>England</hi> ſufficient to drive our Trade?</p>
+            <p>If there be not Money <hi>in ſpecie</hi> ſufficient for our Trade, whether we muſt not make uſe of Credit to ſupply that Defect, or muſt leave Trading?</p>
+            <p>If a Credit be given, whether it ought not to be given upon a ſecure Fund?</p>
+            <p>Whether there can be a better Fund than Land-Security?</p>
+            <p>If no Credit were allowed to be given, but all Perſons were oblig'd to pay ready Money down, whether Intereſt of Money would not be above 6, 8 or 10 <hi>l. per Cent.?</hi>
+            </p>
+            <p>If Credit ſupplying the Defect of Money abates the Intereſt of Money, why may not the Freeholders of <hi>England</hi> have a Credit upon their Lands, as well as others upon their bare Notes, without paying 6 <hi>l. per Cent. per Annum</hi> for the ſame?</p>
+            <p>If twenty Millions value in Bullion were imported and coined into Money, whether ſuch plenty of Species would not bring Intereſt-Money under 6 <hi>l. per Cent. per Annum,</hi> and be as great an Invaſion upon the Uſurers Property of high Intereſt, as the Gentleman's endeavouring to raiſe a Credit upon his own Eſtate? And,</p>
+            <p>If Circumſtances of Affairs would admit of it, whether we muſt be prohibited bringing in any great quantity of Gold and Silver to be coined, for fear of injuring our Uſurers Property, by creating plenty of Money, and conſequently abating high Intereſt?</p>
+            <p>If our Merchants and Traders give 6 <hi>l. per Cent.</hi> and our Neighbours but 3 <hi>l. per Cent. per Annum</hi> Intereſt, whether upon the ſame foot of Trade, they cannot get by their Trade more than we can by 3 <hi>l. per Cent.</hi> and conſequently out-trade us, and we loſe our Trade?</p>
+            <p>If a Foreigner can take up Money at 3 <hi>l. per Cent.</hi> and ſend the ſame hither, and let it out to Intereſt at 6 <hi>l. per Cent.</hi> whether ſuch Foreigner does not draw every Year 3 <hi>l. per Cent. per Annum</hi> out of <hi>England,</hi> which for a Million value is 30000 <hi>l. per Annum</hi> loſs to the Kingdom?</p>
+            <p>Whether it be a greater Evil to reduce Intereſt from 6 to 3 <hi>l. per Cent.</hi> naturally and without Compulſion, than to lowe it from 10 to 8, and from 8 to 6, as hath been done by Authority of Parliament?</p>
+            <p>Whether thoſe Parliaments who wiſely reduced the Intereſt of Money, did in ſo doing invade any Man's Property?</p>
+            <p>Whether <hi>England</hi> did not grow much richer, and extreamly enlarge their Trade after Intereſt of Money was reduced from 10 to 8, and yet more when it was brought from 8 to 6 <hi>l. per Cent. per Annum</hi> Intereſt?</p>
+            <p>Whether the Tradeſman who pays but 3 <hi>l. per Cent.</hi> or he who pays 6 <hi>l. per Cent.</hi> In<g ref="char:EOLhyphen"/>tereſt, be the moſt likely to live and provide for his Family?</p>
+            <closer>
+               <signed>John Briſcoe.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94849:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
